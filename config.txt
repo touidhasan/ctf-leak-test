@@ -1,1 +1,0 @@
-API_KEY=flag{github_commit_leak}
